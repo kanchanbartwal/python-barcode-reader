@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['accompanyingtextbytes',['accompanyingTextBytes',['../structtag_extended_result.html#abffaa579d0db5be8c03b44bd809f9674',1,'tagExtendedResult::accompanyingTextBytes()'],['../structtag_localization_result.html#a6616fedacbbed7876359bfc730e15aa3',1,'tagLocalizationResult::accompanyingTextBytes()'],['../classcom_1_1dynamsoft_1_1barcode_1_1_extended_result.html#a87183fbf52ae41120f1e0cd843a31032',1,'com.dynamsoft.barcode.ExtendedResult.accompanyingTextBytes()'],['../classcom_1_1dynamsoft_1_1barcode_1_1_localization_result.html#a8e83b3e4488f85001b9a41edfd24ff58',1,'com.dynamsoft.barcode.LocalizationResult.accompanyingTextBytes()']]],
+  ['accompanyingtextbyteslength',['accompanyingTextBytesLength',['../structtag_extended_result.html#aa74cc39fe4406ceb5c04b0ce38447da0',1,'tagExtendedResult::accompanyingTextBytesLength()'],['../structtag_localization_result.html#afd20a1abbb1c2dacccc03993f3b39120',1,'tagLocalizationResult::accompanyingTextBytesLength()']]],
+  ['angle',['angle',['../structtag_localization_result.html#a5a973634b21f8ae5ebc304369146be01',1,'tagLocalizationResult::angle()'],['../classcom_1_1dynamsoft_1_1barcode_1_1_localization_result.html#ae15b75967086352e09d7413642230884',1,'com.dynamsoft.barcode.LocalizationResult.angle()']]]
+];
